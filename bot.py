@@ -85,5 +85,5 @@ async def show_alignment(ctx, name: str):
         await ctx.send(f"Character {name}'s alignment is: {value} ({alignment_map[value]})")
 
 # Run the bot
-bot.run("MTMyMjQ4NzYxNTAzMDgyNTAyMQ.Gq7G_x.KBf2t7Ql4xtDzlayrYybo4yABjG_qAfZ-QLkXA")
+bot.run("BOT TOKEN hidden")
 
